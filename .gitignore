@@ -1,0 +1,13 @@
+.vs/
+Build/
+Builds/
+Debug/
+Release/
+x64/
+Win32/
+Intermediate/
+*.obj
+*.pdb
+*.ilk
+*.lib
+*.exp
